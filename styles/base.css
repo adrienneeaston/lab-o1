@@ -1,77 +1,11 @@
 body {
     width: 480px;  
-    background: white;
+    background: black;
     margin: 0px auto;
 }
 
 div {
     float: left;
-}
-
-@media only screen and (min-width: 760px) {
-
-        #a {
-            width: 960px;
-            height: 100px;
-            background-color: red;
-            text-align: center;
-            vertical-align: middle;
-        }
-        
-        #b {
-            width: 480px;
-            height: 150px;
-            background-color: #575C55;
-            text-align: center;
-        }
-        
-        #c {
-            width: 480px;
-            height: 125px;
-            background-color: #6C7D47;
-            text-align: center;
-        }
-        
-        #d {
-            width: 480px;
-            height: 125px;
-            background-color: #96A13A;
-            text-align: center;
-        }
-        
-        #e {
-            width: 240px;
-            height: 250px;
-            background-color: #ACC12F;
-            text-align: center;
-        }
-        
-        #f {
-            width: 240px;
-            height: 250px;
-            background-color: #39374A;
-            text-align: center;
-        }
-        
-        #g {
-            width: 240px;
-            height: 250px;
-            background-color: #40433E;
-            text-align: center;
-        }
-        
-        #h {
-            width: 240px;
-            height: 250px;
-            background-color: #3B4527;
-            text-align: center;
-        }
-        
-        #i {
-            width: 480px;
-            height: 80px;
-            background-color: #6E762B;
-            text-align: center;
-        }
-
+    text-align: center;
+    vertical-align: middle;
 }
