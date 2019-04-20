@@ -1,0 +1,11 @@
+body {
+    width: 480px;  
+    background: black;
+    margin: 0px auto;
+}
+
+div {
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+}
