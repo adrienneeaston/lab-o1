@@ -4,8 +4,19 @@ body {
     margin: 0px auto;
 }
 
+main {
+    /* float: left;
+    text-align: center;
+    vertical-align: middle; */
+    display: flex;
+    flex-wrap: row wrap;
+    /* flex-direction: row; */
+    justify-content: flex start;
+}
+
 div {
-    float: left;
     text-align: center;
     vertical-align: middle;
+    flex: 
 }
+
